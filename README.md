@@ -1,1 +1,1 @@
-A simple React app for searching and displaying movies using the TMDB API.
+# A UI clone of HULU made using React js and TMDB API.
